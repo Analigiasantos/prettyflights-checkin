@@ -1,0 +1,1 @@
+Release da versão 1.0.0 do módulo de check-in.
